@@ -1,0 +1,2 @@
+export const GET_CAMPAIGN = "GET_CAMPAIGN"
+export const GET_CAMPAIGN_ERROR = "GET_CAMPAIGN_ERROR"

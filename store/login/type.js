@@ -1,0 +1,6 @@
+export const CUSTOM_LOGIN = 'CUSTOM_LOGIN';
+export const CUSTOM_LOGIN_ERROR = 'CUSTOM_LOGIN_ERROR';
+export const GET_USER_INFO = 'GET_USER_INFO';
+export const GET_USER_INFO_ERROR = 'GET_USER_INFO_ERROR';
+export const SET_ACCESS_TOKEN = 'SET_ACCESS_TOKEN';
+export const CLEAN_ETHIC = 'CLEAN_ETHIC';

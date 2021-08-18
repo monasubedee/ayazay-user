@@ -1,0 +1,1 @@
+export const GET_QRCODE = 'GET_QRCODE';

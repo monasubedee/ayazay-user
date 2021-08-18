@@ -1,0 +1,15 @@
+export const TOGGLE_CART_HIDDEN = 'TOGGLE_CART_HIDDEN';
+export const ADD_ITEM = 'ADD_ITEM';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const CLEAR_ITEM_FROM_CART = 'CLEAR_ITEM_FROM_CART';
+export const INCREASE = 'INCREASE';
+export const DECREASE = 'DECREASE';
+export const RESET = 'RESET';
+export const ADD_ITEM_TO_CHECKOUT = 'ADD_ITEM_TO_CHECKOUT';
+export const UPDATE_QUANTITY = 'UPDATE_QUANTITY';
+export const LIMIT_ITEM = 'LIMIT_ITEM';
+export const UPDATE_ITEM = 'UPDATE_ITEM';
+export const SHIPPING_FEES = 'SHIPPING_FEES';
+export const CHECK_ITEM = 'CHECK_ITEM';
+export const CHECK_ITEM_ALL = 'CHECK_ITEM_ALL';
+export const UPDATE_TEST_ITEM = 'UPDATE_TEST_ITEM';

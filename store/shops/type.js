@@ -1,0 +1,6 @@
+export const GET_SHOP = 'GET_SHOP';
+export const GET_SHOP_ERROR = 'GET_SHOP_ERROR';
+export const GET_SHOP_ID_PRODUCT = 'GET_SHOP_ID_PRODUCT';
+export const GET_SHOP_ID_PRODUCT_ERROR = 'GET_SHOP_ID_PRODUCT_ERROR';
+export const GET_SHOP_LIST = 'GET_SHOP_LIST';
+export const GET_LOAD_MORE = 'GET_LOAD_MORE';
